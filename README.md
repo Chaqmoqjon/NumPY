@@ -1,2 +1,2 @@
-# NumPyLesson001
+# NumPy Learning
 Create by Google Colab
